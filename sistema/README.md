@@ -2,6 +2,16 @@
 
 Air Ticket Online System
 
+## Install Vuejs 
+```
+npm install vue
+```
+
+## Install Quasar 
+```
+npm install -g @quasar/cli
+```
+
 ## Install the dependencies
 ```bash
 npm install
